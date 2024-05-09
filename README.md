@@ -383,11 +383,10 @@ contact.html
 
 
 ## OUTPUT:
-![alt text](<Screenshot (469).png>)
-![alt text](<Screenshot (470).png>)
-![alt text](<Screenshot (474).png>)
-![alt text](<Screenshot (472).png>)
-
+![alt text](<Screenshot (475).png>)
+![alt text](<Screenshot (476).png>)
+![alt text](<Screenshot (477).png>)
+![alt text](<Screenshot (478).png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
